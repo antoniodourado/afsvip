@@ -1,0 +1,37 @@
+system distance increase
+system distance decrease
+system feedback tone
+system feedback voice
+system classify
+system volume higher
+system volume lower
+system volume minimum
+system volume loud
+system volume default
+system setup enable
+system setup disable
+system navigation type path
+system navigation type obstacle
+system navigation distance minimum
+system navigation distance default
+system navigation distance maximum
+system feedback type positional
+system feedback type stereo
+system distance type meters
+system distance type paces
+system obstacle distance
+system show path
+system help commands
+system help stop
+system feedback stop
+system feedback start
+system feedback continuous
+system feedback scene
+system feedback speed increase
+system feedback speed decrease
+system turn off
+debug snapshot
+system increase maximum distance
+system decrease maximum distance
+system increase minimum distance
+system decrease minimum distance
