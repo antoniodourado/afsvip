@@ -1,0 +1,20 @@
+animal
+armario
+aspirador
+bolsa
+cadeira
+cama
+cesto
+escada
+ferro de passar
+fogão
+geladeira
+janela
+mesa
+mochila
+pessoa
+pia
+porta
+sofá
+televisão
+vaso sanitário
