@@ -1,0 +1,22 @@
+sistema aumentar distância
+sistema diminuir distância
+sistema feedback tom
+sistema feedback voz
+sistema identificar
+sistema aumentar volume
+sistema diminuir volume
+sistema volume mínimo
+sistema volume máximo
+sistema volume padrão
+sistema ligar personalização
+sistema desligar personalização
+sistema navegação por caminho
+sistema navegação por obstáculo
+sistema feedback posicional
+sistema feedback estéreo
+sistema distância em metros
+sistema distância em passos
+sistema distância do obstáculo
+sistema mostrar caminho
+sistema mostrar comandos
+sistema parar ajuda
